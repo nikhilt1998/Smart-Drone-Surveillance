@@ -1,5 +1,7 @@
 # Bhopal Smart City Hackathon 2.0
 
+### Team Members: Anshul Shaive, Nikhil Tiwari, Om Prakash Namdeo.
+
 # Idea !!!
 
 We want to build an IoT network of connected drones and patrolling vehicles for better surveillance and security.
