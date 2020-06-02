@@ -1,4 +1,4 @@
-# Bhopal Smart City Hackathon 2.0
+# Smart Drone Surveillance
 
 ### Team Members: Anshul Shaive, Nikhil Tiwari, Om Prakash Namdeo.
 
